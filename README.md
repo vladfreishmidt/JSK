@@ -1,3 +1,3 @@
 # JSK
 
-#JavaScriptKingdom is a project where I put knowlages about JavaScript programming 
+#JavaScriptKingdom is a project where I post knowledges about JavaScript programming 
